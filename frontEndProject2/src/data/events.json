@@ -1,0 +1,14 @@
+{
+    "event1": {
+        "date": "May 28, 2022",
+        "name": "Private Hotel-Spa",
+        "address": "Test address",
+        "phoneNumber": "Test phone number"
+    },
+    "event2": {
+        "date": "May 29, 2022",
+        "name": "Test Hotel-Spa",
+        "address": "Test address",
+        "phoneNumber": "Test phone number"
+    }
+}
